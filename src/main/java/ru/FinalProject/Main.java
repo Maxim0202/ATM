@@ -10,4 +10,5 @@ public class Main {
             ATM a = new ATM();
             System.out.println(a.getMoney(card1));
         }
+
     }
