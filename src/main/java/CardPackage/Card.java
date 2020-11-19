@@ -9,7 +9,6 @@ public class Card {
         this.pinCode = pinCode;
         this.validity = validity;
     }
-
     public int getPinCode() {
         return pinCode;
     }

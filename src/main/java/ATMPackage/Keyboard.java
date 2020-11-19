@@ -9,6 +9,7 @@ public class Keyboard {
     static Card card;
 
     public void getPin(){
+
         Scanner sc1 = new Scanner(System.in);
         System.out.println("Введите пин-код: ");
 
